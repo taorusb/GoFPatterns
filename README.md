@@ -1,1 +1,1 @@
-# GoFPatterns
+### This repository presents the gang of four design patterns.
